@@ -1,0 +1,4 @@
+rootProject.name = 'multimodule-project'
+
+include 'product-ms', 'common', 'warehouse-ms', 'registry-service', 'gateway-service'
+
